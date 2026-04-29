@@ -35,6 +35,9 @@ A bunch of scripts for Autodesk Maya I made for specific needs or daily tasks at
 ### [btn_deleteUnusedShaders.py](https://github.com/L0Lock/LauloqueMayaScriptsDump/blob/main/btn_deleteUnusedShaders.py) ([raw](https://raw.githubusercontent.com/L0Lock/LauloqueMayaScriptsDump/main/btn_deleteUnusedShaders.py))
 ***Description:*** letes unused shaders
 
+### [btn_makeIdleAnim.py](https://github.com/L0Lock/LauloqueMayaScriptsDump/blob/main/btn_makeIdleAnim.py) ([raw](https://raw.githubusercontent.com/L0Lock/LauloqueMayaScriptsDump/main/btn_makeIdleAnim.py))
+***Description:*** Makes a one frame Idle animation from the current frame: Takes the selected skeleton and copies its animation at the current frame to the frames 0:1and sets the frame range to 0:1
+
 ### [btn_openSceneFolder.py](https://github.com/L0Lock/LauloqueMayaScriptsDump/blob/main/btn_openSceneFolder.py) ([raw](https://raw.githubusercontent.com/L0Lock/LauloqueMayaScriptsDump/main/btn_openSceneFolder.py))
 ***Description:*** Opens the current scene's folder (needs to be a saved file).
 
